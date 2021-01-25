@@ -1,3 +1,9 @@
+# reading-notes
+Repo for CodeFellows readings notes.
+
+## Author
+Jessi Velazquez
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JessiVelazquez/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
