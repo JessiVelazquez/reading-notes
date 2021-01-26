@@ -72,4 +72,5 @@ Linux does not use file extensions, like Windows does. No more .txt, .exe,.jpg, 
 ### Case Sensitive
 
 Linus is case sensitive. So, for example you could have have two Documents folders in the same directory - one called *Documents* and one called *documents*.
-  
+
+
