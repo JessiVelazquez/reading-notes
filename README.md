@@ -21,6 +21,8 @@ With a background in environmental science/resource management and GIS, I am rea
 
 [ACP](ACP.md)
 
+[Structuring Web Pages with HTML](HTMLStructurePages.md)
+
 ## Code 201
 
 ## Code 301
