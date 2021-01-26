@@ -4,3 +4,4 @@
 
 # Table of Contents
 
+[Growth Mindset](growthmindset.md)
