@@ -2,7 +2,14 @@
 
 **GitHub Link:** https://github.com/JessiVelazquez
 
+**Bio**
+
+With a background in environmental science/resource management and GIS, I am ready to take the next step to become a developer. 
+
+
 # Table of Contents
+
+## Code 102
 
 [Growth Mindset](growthmindset.md)
 
@@ -13,3 +20,9 @@
 [Git](git.md)
 
 [ACP](ACP.md)
+
+## Code 201
+
+## Code 301
+
+## Code 401
