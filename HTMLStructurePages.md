@@ -1,3 +1,5 @@
+This information can be found in Chapters 1, 18, 8, and 17 of Ducket HTML/CSS book.
+
 # Structuring Pages with HTML
 
 Very good information on visual design tactics can be founnd in HTML and CSS book page 452 - Chapter "Structure".
@@ -40,7 +42,11 @@ uses tags to articulate pieces of information.
 
 Tags have an opener and a closure tag.
 
-## Read Chapters 17 and 8, Add Notes
+In HTML5, you do not need to the <!DOCTYPE> tag, but it is still considered best practice, so we use it.
 
-TO COME
+The title and header come first.
 
+The body must encapsulate all code, with tags for things like H1, H2, img, text, etc. 
+
+# The most important thing to remember is to refer to Ducket HTML/CSS for style guides in detail.
+# Another option is to Google HTML tag syntax when uncertain how certain elements should be written.
