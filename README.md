@@ -27,6 +27,8 @@ With a background in environmental science/resource management and GIS, I am rea
 
 [Webscript - JavaScript](WebScript.md)
 
+[How Computers Work](HowComputersWork.md)
+
 ## Code 201
 
 ## Code 301
