@@ -76,10 +76,10 @@ so, to represent the digit "9", we use 1001, where:
 - The master program that manages how software gets to use the CPU
 - Lets you install new programs by loading them into memory
 - Lets you decide when a program is run by the CPU and gives it access to Input and Output devices
+
 **Interesting Fact**
-```
 When you think your computer is running multiple programs at once, it is actually the OS switching between programs at lightnight speed
-```
+
 
 
 
