@@ -31,6 +31,8 @@ With a background in environmental science/resource management and GIS, I am rea
 
 [Javascript](javascript.md)
 
+[Operators and Loops](OperatorsAndLoops.md)
+
 ## Code 201
 
 ## Code 301
