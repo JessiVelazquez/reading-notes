@@ -35,8 +35,7 @@ With a background in environmental science/resource management and GIS, I am rea
 
 ## Code 201
 
-
-
+[Class 01 Notes](201class_01.md)
 
 ## Code 301
 
