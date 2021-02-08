@@ -6,10 +6,14 @@
 
 With a background in environmental science/resource management and GIS, I am ready to take the next step to become a developer. 
 
+# **What This Site is About**
+This site is a collection of notes from Code Fellows courses 102, 201, 301, and 401.
 
-# Table of Contents
 
-## Code 102
+# **Table of Contents**
+
+
+## Code 102 Reading Notes
 
 [Growth Mindset](growthmindset.md)
 
@@ -33,10 +37,10 @@ With a background in environmental science/resource management and GIS, I am rea
 
 [Operators and Loops](OperatorsAndLoops.md)
 
-## Code 201
+## Code 201 Reading Notes
 
 [Class 01 Notes](201class_01.md)
 
-## Code 301
+## Code 301 Reading Notes
 
-## Code 401
+## Code 401 Reading Notes
