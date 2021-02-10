@@ -4,7 +4,7 @@
 
 **Bio**
 
-With a background in environmental science/resource management and GIS, I am ready to take the next step to become a developer. 
+With a background in environmental science/resource management and GIS, I am ready to take the next step and become a developer. 
 
 # **What This Site is About**
 This site is a collection of notes from Code Fellows courses 102, 201, 301, and 401.
