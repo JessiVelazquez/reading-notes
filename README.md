@@ -43,6 +43,8 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Class 02 Notes](201class_02.md)
 
+[Class 03 Notes](201class_03.md)
+
 ## Code 301 Reading Notes
 
 ## Code 401 Reading Notes
