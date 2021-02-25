@@ -65,6 +65,8 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Class 13 Notes](201class_13.md)
 
+[Class 14 Notes](201class_14.md)
+
 ## Code 301 Reading Notes
 
 ## Code 401 Reading Notes
