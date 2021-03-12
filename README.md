@@ -13,7 +13,7 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 # **Table of Contents**
 
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 [Growth Mindset](growthmindset.md)
 
@@ -37,7 +37,7 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Operators and Loops](OperatorsAndLoops.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Devlopment
 
 [Class 01 Notes](201class_01.md)
 
@@ -67,8 +67,8 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Class 14 Notes](201class_14.md)
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 
 [Class 01 Notes](301class_01.md)
 
-## Code 401 Reading Notes
+## Code 401 - Advanced Software Development
