@@ -91,4 +91,6 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Class 11 Notes](301class_11.md)
 
+[Class 12 Notes](301class_12.md)
+
 ## Code 401 - Advanced Software Development
