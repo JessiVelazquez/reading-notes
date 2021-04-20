@@ -100,3 +100,5 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 ## Code 401 - Advanced Software Development
 
 [Class 01 Pre-Work Notes](401class_preWork.md)
+
+[Class 01 Notes](401class_01.md)
