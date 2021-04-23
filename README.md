@@ -105,4 +105,6 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Class 02 Notes](401class_02.md)
 
-[Class 02 Notes](401class_03.md)
+[Class 03 Notes](401class_03.md)
+
+[Class 04 Notes](401class_04.md)
