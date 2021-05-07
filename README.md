@@ -120,3 +120,7 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 [Class 12 Notes](401class_12.md)
 
 [Class 13 Notes](401class_13.md)
+
+[Class 14 Notes](401class_14.md)
+
+[Trees Notes](401class_trees.md)
