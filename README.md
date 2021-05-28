@@ -138,3 +138,5 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 [Class 27 Notes](401class_27.md)
 
 [Class 28 Notes](401class_28.md)
+
+[Class 29 Notes](401class_29.md)
