@@ -145,3 +145,5 @@ This site is a collection of notes from Code Fellows courses 102, 201, 301, and 
 
 [Class 32 Notes](401class_32.md)
 
+[Class 33 Notes](401class_33.md)
+
